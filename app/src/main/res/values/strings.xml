@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bhojanalya</string>
+    <string name="next">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id" translatable="false">1036607875604-pro5emq4houdkstpdir2e94filtl65rb.apps.googleusercontent.com</string>
+</resources>
